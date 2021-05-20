@@ -22,7 +22,7 @@ Simplify your app development, grow your user base, and monetize more effectivel
     "CoreOnly/README.md"
   ]
   s.social_media_url = 'https://twitter.com/Firebase'
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.12'
   s.tvos.deployment_target = '10.0'
 
